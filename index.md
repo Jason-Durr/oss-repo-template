@@ -3,7 +3,7 @@
 
 ### email: durrj2@rpi.edu
 ### github account: Jason-Durr
-Photo of Moorthy ![Moorthy](images/msk.jpg)
+Photo of Jason ![Jason-Durr](images/20170802_163220.jpg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
