@@ -1,5 +1,5 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Jason Durr
 
 ## Bio
 (( Put a little bit about yourself here! Also include a photo. ))
