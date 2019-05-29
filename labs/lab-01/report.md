@@ -31,4 +31,21 @@
         software in a mannor other than its initial purpose. All of these take aways can basically be summed up into
         one key tip: "Know what you are getting into before publishing any software for the public."
 ## 15. RegexOne
-        
+<img src="15_1.PNG" >
+<img src="15_2.PNG" >
+<img src="15_3.PNG" >
+<img src="15_4.PNG" >
+<img src="15_5.PNG" >
+<img src="15_6.PNG" >
+<img src="15_7.PNG" >
+
+## 16. Regex Crosswords
+
+<img src="16_1.PNG" >
+<img src="16_2.PNG" >
+<img src="16_3.PNG" >
+<img src="16_4.PNG" >
+
+## 20. Blocky Games
+
+<img src="20_1.PNG" >
