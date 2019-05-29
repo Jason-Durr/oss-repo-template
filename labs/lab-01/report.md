@@ -30,3 +30,5 @@
         with designing your software to warn the users as well of pottential legal issues if they use your
         software in a mannor other than its initial purpose. All of these take aways can basically be summed up into
         one key tip: "Know what you are getting into before publishing any software for the public."
+## 15. RegexOne
+        
