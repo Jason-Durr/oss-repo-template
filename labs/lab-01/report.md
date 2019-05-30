@@ -56,5 +56,17 @@
 <img src="20_1.PNG" >
 
 ## 19. Reflection
-
+        One of the projects that I have started to examine is API for the music database discogs. This API theoretically 
+        should allow for a query of the database but as of right now its documentation is less than helpfull in starting to use it.
+        I found this when I was searching for a way to take a spotify playlist and find the median year for all the
+        songs in the playlist. One way this open source project could be helped is to add documentation for functionality
+        beyond just the initial connection to the server. As it stands right now after finishing connecting the documentation 
+        just says ise python dir() to figure everything else out. The problem with this is the database querys do not return 
+        valid songs and the serial numbers used on the website do not appear to be the same in the API.  Both of these bugs 
+        can be examined and doccumented so that future people trying to use this API have an easier time. I also looked at
+        some of the RCOS projects to see if any of them were interesting and I found the PhoneControler project to be somewhat
+        intersting because the applications of that can be very large especially in a classroom learning environment.  This is 
+        because it could allow  an entire class to participate in an activity without the need for a large cost for controllers
+        for the school. Either the students would already have one or at the very least the school could purchase tablets that
+        would not have a single purpose like a controller.
         
