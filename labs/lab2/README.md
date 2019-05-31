@@ -1,0 +1,4 @@
+-Jason Durr
+-<img src="2019-05031-115035.jpg">
+-2021
+-App to to generate median yaer of Spotify Playlist
