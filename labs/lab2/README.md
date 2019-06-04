@@ -1,4 +1,0 @@
-- Jason Durr
-- <img src="2019-05-31-115035.jpg">
-- 2021
-- App to to generate median year of all the songs on a Spotify Playlist
