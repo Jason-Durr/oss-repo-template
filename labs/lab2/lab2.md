@@ -15,7 +15,10 @@ These are the screenshots from
 <img src="part2_4.png">
 
 ## Part 3
-Here are the twon screenshots for part 3
+Here is the pull-req repository:
+https://github.com/Jason-Durr/PullReq
+Here are the two screenshots for part 3:
 <img src="part3_2.png">
 <img src="part3_1.png">
+Here is a link to the common repository: https://github.com/oakleyaidan21/OSSProjectIdeas
 
