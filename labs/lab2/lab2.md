@@ -6,4 +6,9 @@ This is the screenshot of the branching diagram and git log
 <img src="part1_6.png">
 
 ## Part 2
+These are the screenshots from 
+<img src="part2_1.png">
+<img src="part2_2.png">
+<img src="part2_3.png">
+<img src="part2_4.png">
 
