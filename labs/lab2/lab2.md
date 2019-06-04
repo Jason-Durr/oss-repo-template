@@ -12,3 +12,8 @@ These are the screenshots from
 <img src="part2_3.png">
 <img src="part2_4.png">
 
+## Part 3
+Here are the twon screenshots for part 3
+<img src="part3_2.png">
+<img src="part3_1.png">
+
