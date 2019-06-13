@@ -35,4 +35,8 @@ GitStats said there were 4 more contributors and about 600 fewer lines of code t
 
 
 Full Video:
-https://youtu.be/lEQv5MFRvis
+https://youtu.be/lEQv5MFRvis]
+
+
+Link to other groupmembers:
+https://github.com/ChrisReed0114/OSS-Repo/tree/master/lab3-contrib
