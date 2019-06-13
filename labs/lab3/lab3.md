@@ -4,7 +4,7 @@
 
 ## B7
 
-### By Hand
+### 4. By Hand
 
 Contributors: 7
 
@@ -17,7 +17,7 @@ Last Commit: April 19 2019
 Number of Branches: 15
 
 
-### GitStats
+### 5. GitStats
 
 Contributors: 11
 
@@ -31,6 +31,8 @@ Last Commit: April 19 2019
 GitStats said there were 4 more contributors and about 600 fewer lines of code than what was found by hand on Github and using the command line argument. Git stats also does not have a way to see the number of branches of the repository.
 
 
+
+## 6. Visualization
 
 
 
