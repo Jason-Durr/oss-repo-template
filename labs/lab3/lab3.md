@@ -1,5 +1,14 @@
+# Lab 3
 
-## Part 2
+## Part1  Documentation
+
+### 1. Wiki
+
+### 2. Latex Equation
+
+### 3. Latex Matrix
+
+## Part 2 Community
 
 
 ## B7
@@ -7,14 +16,19 @@
 ### 4. By Hand
 
 Contributors: 7
+<img src="part2_1.png">
 
 Line of Code: 3313
+<img src="part2_2.png">
 
 First Commit: September 24 2018
+<img src="part2_4.png">
 
 Last Commit: April 19 2019
+<img src="part2_3.png">
 
 Number of Branches: 15
+<img src="part2_5.png">
 
 
 ### 5. GitStats
@@ -27,13 +41,15 @@ First Commit: September 24 2018
 
 Last Commit: April 19 2019
 
+<img src="part2_6.png">
+
 
 GitStats said there were 4 more contributors and about 600 fewer lines of code than what was found by hand on Github and using the command line argument. Git stats also does not have a way to see the number of branches of the repository.
 
 
 
-## 6. Visualization
-
+### 6. Visualization
+<img src="part2_7.png">
 
 
 Full Video:
