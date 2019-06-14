@@ -23,4 +23,7 @@ For android, the kernel uses a GPL v2 License which is the same one as Linux use
 
 ## 7.
 
+https://github.com/barnesv17/Lab04-Licensing
+
+## 8.
 
