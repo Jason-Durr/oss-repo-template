@@ -4,9 +4,16 @@
 
 ### 1. Wiki
 
+<img src="part1_1.png">
+
 ### 2. Latex Equation
 
+<img src="part1_2.png">
+
 ### 3. Latex Matrix
+
+<img src="part1_3.png">
+
 
 ## Part 2 Community
 
