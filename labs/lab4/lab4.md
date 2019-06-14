@@ -27,3 +27,15 @@ https://github.com/barnesv17/Lab04-Licensing
 
 ## 8.
 
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/jeffreyceballos/3rs | No | 
+https://github.com/kaijianz/alvitr | Yes | https://en.wikipedia.org/wiki/MIT_License
+https://github.com/anchor-site/anchor | Yes | https://en.wikipedia.org/wiki/MIT_License
+https://github.com/angel-project/framework | Yes | https://en.wikipedia.org/wiki/MIT_License
+https://github.com/colegregory/animate.css | Yes | https://en.wikipedia.org/wiki/MIT_License
+
+
+
+
