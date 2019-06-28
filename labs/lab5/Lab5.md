@@ -12,6 +12,7 @@
 <img src="Step5.png">
 
 ## 2. My Make file
+<img src="Part2_1.png">
 
 All: program
 
@@ -38,6 +39,8 @@ block.o: source/block.c
 
 
 ## 3. My cmake file
+
+<img src="Part3.png">
 
 
 cmake_minimum_required(VERSION 3.0)
