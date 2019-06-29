@@ -1,0 +1,16 @@
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/install/strip.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/install/local.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/test.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/list_install_components.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/Tutorial.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/edit_cache.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/rebuild_cache.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/CMakeFiles/install.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/install/strip.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/install/local.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/test.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/list_install_components.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/edit_cache.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step5/MathFunctions/CMakeFiles/install.dir

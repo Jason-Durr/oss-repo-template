@@ -1,0 +1,3 @@
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step1/CMakeFiles/rebuild_cache.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step1/CMakeFiles/Tutorial.dir
+/home/jason/CSCI4961/Labs/Lab5/cmake/Tests/Tutorial/Step1/CMakeFiles/edit_cache.dir
