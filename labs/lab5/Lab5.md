@@ -5,11 +5,16 @@
 ## 1. Steps 1-5
 
 <img src="step1.png">
+(https://github.com/Jason-Durr/oss-repo-template/tree/master/labs/lab5/Step1)
 <img src="Step2.png">
+(https://github.com/Jason-Durr/oss-repo-template/tree/master/labs/lab5/Step2)
 <img src="Step3.png">
+(https://github.com/Jason-Durr/oss-repo-template/tree/master/labs/lab5/Step3)
 <img src="Step4_1.png">
+(https://github.com/Jason-Durr/oss-repo-template/tree/master/labs/lab5/Step4)
 <img src="Step4_2.png">
 <img src="Step5.png">
+(https://github.com/Jason-Durr/oss-repo-template/tree/master/labs/lab5/Step5)
 
 ## 2. My Make file
 <img src="Part2_1.png">
