@@ -8,6 +8,7 @@
 <img src="Part2_1.jpg">
 <img src="Part2_2.jpg">
 <img src="Part2_3.jpg">
+
 ## Step 3
 
 <img src="Part4_1.jpg">
