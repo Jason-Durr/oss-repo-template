@@ -13,5 +13,5 @@
 
 ## Step 3
 
-<img src="Part4_1.png">
-<img src="Part4_2.png">
+<img src="Part3_1.png">
+<img src="Part3_2.png">
